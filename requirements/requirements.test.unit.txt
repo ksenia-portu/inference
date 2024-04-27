@@ -5,9 +5,9 @@ pillow
 requests_toolbelt
 requests-mock==1.11.0
 rich
-pytest-asyncio<=0.21.1
+pytest-asyncio
 pytest-timeout>=2.2.0
 httpx
-uvicorn<=0.22.0
+uvicorn
 aioresponses>=0.7.6
 supervision>0.16.0,<1.0.0
