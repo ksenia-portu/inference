@@ -1,4 +1,4 @@
-APScheduler<=3.10.1
+APScheduler<=3.10.4
 cython<=3.0.0
 python-dotenv<=2.0.0
 fastapi>=0.100,<1.0
