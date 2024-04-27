@@ -2,8 +2,6 @@ requests<=2.31.0
 docker
 typer==0.9.0
 rich
-skypilot==0.4.1
-rich<=13.5.2
 skypilot
 PyYAML>=6.0.0
 supervision>=0.17.1
